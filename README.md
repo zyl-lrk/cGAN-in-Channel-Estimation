@@ -9,7 +9,6 @@ Thesis link:https://ieeexplore.ieee.org/document/9246559
 encoder_decoder:
 ![encoder_decoder_new.jpg](https://s2.loli.net/2022/10/14/XitTmhFBrU4KJbg.png)
 
-
 Generator:
 ![Net.jpg](https://s2.loli.net/2022/10/14/etfSpOXP1NKanvR.png)
 
